@@ -4,3 +4,10 @@ def saludar(nombre):
 
 def despedir(nombre):
     print(nombre, "Adios");
+
+def main():
+    saludar("Juan")
+    despedir("Juan")
+
+def bienvenida():
+    print("Bienvenido a Python")
