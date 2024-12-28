@@ -1,8 +1,5 @@
 print("Hola Mundo")
 def saludar(nombre):
-<<<<<<< HEAD
-    print(nombre, "Hola");
-=======
     print(nombre, "Hola");
 
 def despedir(nombre):
@@ -14,4 +11,3 @@ def main():
 
 def bienvenida():
     print("Bienvenido a Python")
->>>>>>> b79338d (Funciond de bienvenida)
